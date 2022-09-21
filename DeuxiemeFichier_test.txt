@@ -1,2 +1,3 @@
 Deuxieme fichier-test
 Création d'une branche cagnotte
+Ajout d'un nouveau texte
