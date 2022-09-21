@@ -2,3 +2,5 @@ Deuxieme fichier-test
 Création d'une branche cagnotte
 Ajout d'un nouveau texte
 modification du fichier + push vers main
+push vers main = ERREUR
+push vers cagnotte = BON
