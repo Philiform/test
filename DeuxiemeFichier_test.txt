@@ -4,3 +4,4 @@ Ajout d'un nouveau texte
 modification du fichier + push vers main
 push vers main = ERREUR
 push vers cagnotte = BON
+Modification sur GitHub
