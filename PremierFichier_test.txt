@@ -14,3 +14,8 @@ branche: cagnotte
 action: modification du contenu
 
 action: modification du contenu 2
+
+----------
+dépôt: distant
+branche: cagnotte
+action: modification du contenu 3
