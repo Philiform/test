@@ -1,2 +1,7 @@
 Premier fichier-test
 ajout d'un nouveau texte
+
+----------
+dépôt: distant
+branche: cagnotte
+action: modification du contenu
