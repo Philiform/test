@@ -19,3 +19,8 @@ action: modification du contenu 2
 dépôt: distant
 branche: cagnotte
 action: modification du contenu 3
+
+----------
+dépôt: local
+branche: cagnotte
+action: modification du contenu 4
