@@ -5,3 +5,7 @@ Sur GitHub: modification du fichier + création d'une nouvelle branche
 ----------------
 dépôt local:
 modification du contenu de ce fichier
+
+----------------
+dépôt distant:
+modification du contenu de ce fichier
