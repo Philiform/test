@@ -5,3 +5,5 @@ ajout d'un nouveau texte
 dépôt: distant
 branche: cagnotte
 action: modification du contenu
+
+action: modification du contenu 2
