@@ -21,6 +21,6 @@ branche: cagnotte
 action: modification du contenu 3
 
 ----------
-dépôt: distant
+dépôt: local
 branche: cagnotte
-action: modification du contenu ERREUR
+action: modification du contenu 4
