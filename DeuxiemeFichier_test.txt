@@ -5,3 +5,7 @@ modification du fichier + push vers main
 push vers main = ERREUR
 push vers cagnotte = BON
 Modification sur GitHub
+
+-----------
+dépôt local:
+création d'une nouvelle branche: nouvelleBranche
